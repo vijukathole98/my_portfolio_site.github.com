@@ -1,7 +1,7 @@
 # <a href="https://github.com/vijukathole98" target="_blank">My Alternate Portfolio Website</a>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/vijukathole98/my_site.github.com/)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-red)](https://vijukathole98.github.io/my_site.github.com/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-red)](https://vijukathole98.github.io/my_portfolio_site.github.com/)
 [![Author](https://img.shields.io/badge/Author-Vijay%20Govind%20KAthole-green.svg)](https://www.linkedin.com/in/vijay-kathole-852089158/)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-14%20Nov%202022-yellow.svg)](https://github.com/vijukathole98/my_site.github.com/edit/master)
 
@@ -10,6 +10,5 @@
 
 ![My Alternate Portfolio Website](https://github.com/vijukathole98/my_site.github.com/blob/master/My-Alternate-Portfolio-Website.jpg)
 
-![11](https://user-images.githubusercontent.com/85567517/205428114-656d68ad-c16f-4a7a-997c-bf78c74a8220.jpg)
 
 
